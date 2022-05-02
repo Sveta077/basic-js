@@ -34,8 +34,4 @@ function dateSample(sampleActivity) {
 
 module.exports = {
   dateSample
-}
-
-module.exports = {
-  dateSample
 };
